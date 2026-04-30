@@ -6,8 +6,8 @@
     "name": "myPOS AI Transformation",
     "email": "ai@mypos.com"
   },
-  "homepage": "https://github.com/myPOSTech/LegalCopilot",
-  "repository": "https://github.com/myPOSTech/LegalCopilot",
+  "homepage": "https://github.com/myPOStech/LegalCopilot-main",
+  "repository": "https://github.com/myPOStech/LegalCopilot-main",
   "license": "UNLICENSED",
   "keywords": ["legal", "triage", "jira", "mypos", "compliance", "outlook", "sharepoint"]
 }

@@ -19,7 +19,7 @@ Download the desktop app from [claude.ai/download](https://claude.ai/download) a
 Open Claude Code and run, in this exact order:
 
 ```
-/plugin marketplace add myPOSTech/LegalCopilot
+/plugin marketplace add myPOStech/LegalCopilot-main)
 /plugin install mypos-legal-copilot@mypos-legal
 ```
 

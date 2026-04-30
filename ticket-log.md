@@ -37,7 +37,7 @@ Tick each box before moving to Step 1. If any are missing, stop and resolve them
 In the Claude Code chat window, type each of these and press Enter (one at a time):
 
 ```
-/plugin marketplace add AtanasRRusenov/mypos-legal-marketplace
+/plugin marketplace add myPOSTech/mypos-legal-marketplace
 ```
 
 **Expected:** "Marketplace added: mypos-legal" (or similar). If you see an authentication prompt, follow it — your GitHub access is checked here. (If you don't have GitHub access set up, the AI Transformation team can fix this in a couple of minutes.)

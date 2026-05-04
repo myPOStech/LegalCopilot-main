@@ -1,13 +1,10 @@
 {
-  "name": "mypos-legal-copilot",
-  "description": "AI triage and drafting assistant for the myPOS Legal team. Bundles the 10 legal-triage skills, Devil's advocate review, SharePoint filing, and Jira/Outlook commands so a lawyer can install once and triage a Jira board, an inbox, or a single ticket from Claude Code.",
-  "version": "0.1.0",
-  "author": {
-    "name": "myPOS AI Transformation",
-    "email": "ai@mypos.com"
-  },
-  "homepage": "https://github.com/myPOStech/LegalCopilot-main",
-  "repository": "https://github.com/myPOStech/LegalCopilot-main",
-  "license": "UNLICENSED",
-  "keywords": ["legal", "triage", "jira", "mypos", "compliance", "outlook", "sharepoint"]
+  "mcpServers": {
+    "atlassian": {
+      "url": "https://mcp.atlassian.com/v1/sse"
+    },
+    "microsoft-365": {
+      "url": "https://mcp.microsoft.com/v1/sse"
+    }
+  }
 }
